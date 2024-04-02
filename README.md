@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Jeongwoo Kim. I am 4th year University of Toronto student majoring in Economics - Focus in Data Analytics, and minoring in Statistics and Environmental Science.
 
 <!--
 **Kjeongwoo99/Kjeongwoo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
